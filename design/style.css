@@ -73,3 +73,50 @@ nav{
     justify-content: space-between;
     padding: 30px 200px;
 }
+
+.action-img{
+    height: 328px;
+    width: 403px;
+    border-radius: 48px;
+}
+
+.action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 116px 350px;
+}
+
+.banner-title{
+    font-weight: bold;
+    font-size: 42px;
+
+}
+
+.banner-des{
+    font-size: 24px;
+}
+.bn1{
+    margin-top: 23px;
+}
+
+.launch-btn{
+    margin-top: 23px;
+}
+
+.pro-container{
+    height: 306px;
+    width: 1240px;
+    background-color: rgba(78, 71, 255, 0.1);
+    margin: 120px auto;
+    padding: 50px 20px;
+    border-radius: 15px;
+}
+
+.pro-title{
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+    margin: 0;
+    background-color: transparent;
+}
