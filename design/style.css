@@ -32,3 +32,44 @@
 .text3{
     color: rgba(0, 0, 0, 0.5);
 }
+
+.btn-vio{
+    padding: 12px 36px;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+button:hover{
+    box-shadow: 0 0 12px rgba(78, 71, 255, 0.6);
+}
+
+
+/* header  */
+header{
+    height: 700px;
+    background-image: url('../Assets/Hero-bg.png');
+    
+}
+.logo{
+    font-size: 34px;
+    font-weight: bolder;
+}
+
+.header-title{
+    font-weight: bold;
+    font-size: 65px;
+    text-align: center;
+    margin: 160px 270px 85px 270px;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 200px;
+}
