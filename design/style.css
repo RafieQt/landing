@@ -43,6 +43,13 @@
     font-size: 20px;
 }
 
+.btn-head{
+    font-size: 20px;
+}
+.btn-con{
+    text-align: center;
+}
+
 button:hover{
     box-shadow: 0 0 12px rgba(78, 71, 255, 0.6);
 }
