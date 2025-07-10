@@ -213,3 +213,56 @@ nav{
     margin: 200px auto;
     padding-bottom: 100px;
 }
+
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+.input-font{
+    font-size: 20px;
+    box-shadow: 0px 0px 32px -13px rgba(0, 0, 0, 0.25);
+    
+}
+.btn-foot{
+    width: 100%;
+    font-size: 20px;
+}
+
+.foot-end{
+    margin: 100px auto;
+    height: 230px;
+    width: 530px;
+    background-color: white;
+}
+.foot-logo{
+    font-size: 100px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.foot-details{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.foot4{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.foot-op{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.foot4 a{
+    text-decoration: none;
+}
